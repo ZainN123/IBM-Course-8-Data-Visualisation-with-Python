@@ -22,5 +22,9 @@ This module of the course is centered on completing your final lab assignment. I
 
 Order of Labs
 
-
-
+1-1-1-Introduction-to-Matplotlib-and-Line-Plots
+2-2-1-Area-Plots-Histograms-and-Bar-Charts-py-v2.0
+2-3-1-Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py-v2.0
+3-5-1-Generating-Maps-in-Python-py-v2.0
+Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots
+4.3_Plotly_Basics.ipynb
