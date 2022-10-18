@@ -27,4 +27,6 @@ Order of Labs
 3) 2-3-1-Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py-v2.0
 4) Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots
 5) 3-5-1-Generating-Maps-in-Python-py-v2.0
-7) 4.3_Plotly_Basics.ipynb
+7) 4.3_Plotly_Basics
+8) Dash basics
+9) 
