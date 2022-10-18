@@ -25,6 +25,6 @@ Order of Labs
 1) 1-1-1-Introduction-to-Matplotlib-and-Line-Plots
 2) 2-2-1-Area-Plots-Histograms-and-Bar-Charts-py-v2.0
 3) 2-3-1-Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py-v2.0
-4) 3-5-1-Generating-Maps-in-Python-py-v2.0
-5) Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots
-6) 4.3_Plotly_Basics.ipynb
+4) Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots
+5) 3-5-1-Generating-Maps-in-Python-py-v2.0
+7) 4.3_Plotly_Basics.ipynb
