@@ -29,4 +29,4 @@ Order of Labs
 5) 3-5-1-Generating-Maps-in-Python-py-v2.0
 7) 4.3_Plotly_Basics
 8) Dash basics
-9) 
+9) Adding interactivity: user input and callbacks
