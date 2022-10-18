@@ -8,4 +8,19 @@ Week 2 - Basic and Specialised Visualisation Tools
 
 In this module, you learn about area plots and how to create them with Matplotlib, histograms and how to create them with Matplotlib, bar charts, and how to create them with Matplotlib, pie charts, and how to create them with Matplotlib, box plots and how to create them with Matplotlib, and scatter plots and bubble plots and how to create them with Matplotlib.
 
-Week 3 - 
+Week 3 - Advanced Visualisations and Geospatial Data 
+
+In this module, you will learn about advanced visualization tools such as waffle charts and word clouds and how to create them. You will also learn about seaborn, which is another visualization library, and how to use it to generate attractive regression plots. In addition, you will learn about Folium, which is another visualization library, designed especially for visualizing geospatial data. Finally, you will learn how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map, and how to create choropleth maps.
+
+Week 4 - Creating Dashboards with Plotly and Dash
+
+In this module you will get started with dashboard creation using the Plotly library. You will create a dashboard with a theme `US Domestic Airline Flights Performance`. You will do this using a US airline reporting carrier on-time performance dataset, Plotly, and Dash concepts learned throughout the course. Hands-on labs will follow each concept to make you comfortable with using the library. Reading lists will reference additional resources to learn more about the concepts covered.
+
+Week 5 - Final Project and Exam
+
+This module of the course is centered on completing your final lab assignment. In the assignment you will function as a data analyst where you have been given a task to monitor and report US domestic airline flights performance. The goal is to analyze the performance of the reporting airline to improve fight reliability thereby improving customer reliability. Once you are done with your work, you will submit your assignment for peer review. After that, you will be asked to review work submitted by your peers.
+
+Order of Labs
+
+
+
