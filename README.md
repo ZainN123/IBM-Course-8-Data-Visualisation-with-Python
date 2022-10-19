@@ -30,3 +30,4 @@ Order of Labs
 7) 4.3_Plotly_Basics
 8) Dash basics
 9) Adding interactivity: user input and callbacks
+10) Flight Delay Time Statistics Dashboard
