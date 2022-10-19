@@ -31,3 +31,5 @@ Order of Labs
 8) Dash basics
 9) Adding interactivity: user input and callbacks
 10) Flight Delay Time Statistics Dashboard
+11) Practice Assignment
+12) Final Assignment
